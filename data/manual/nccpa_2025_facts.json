@@ -1,0 +1,15 @@
+{
+  "source": "NCCPA, 2025 Statistical Profile of Board Certified PAs (May 2026), https://doi.org/10.64936/SR0513",
+  "note": "Hand-copied from the PDF.",
+  "certified_pas": 201038, "certified_pas_2013": 95583, "growth_2021_2025": 26.9,
+  "per_100k": 58.6, "per_100k_2021": 48,
+  "salary_median": 125000, "salary_mean": 134010, "salary_median_2021": 115000, "salary_mean_2021": 117381,
+  "hours_mean": 39.2, "hours_median": 40, "patients_per_week_fulltime": 67,
+  "satisfied": {"Present job": 84.3, "Career as a PA": 87.6, "Hours": 79.3, "Work-life balance": 74.2, "Income": 76.1, "Benefits": 73.4, "Location": 83.3, "Employer": 76.2},
+  "burnout_any": 31.8, "burnout_scale": [14.0, 54.2, 23.9, 6.4, 1.5],
+  "burnout_community_health_center": 40.3, "burnout_private_practice": 29.3,
+  "intend_to_leave_12mo": 8.6, "employer_hiring": 46,
+  "primary_care_share": 21.4, "primary_care_share_2021": 23.7,
+  "female": 72.1, "median_age": 38,
+  "highest_paid_specialties_named": ["Cardiothoracic and vascular surgery", "Dermatology", "Critical care medicine", "Ophthalmic surgery", "Neurosurgery"]
+}

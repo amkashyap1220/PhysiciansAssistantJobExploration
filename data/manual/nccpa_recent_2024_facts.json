@@ -1,0 +1,20 @@
+{
+  "source": "NCCPA, 2024 Statistical Profile of Recently Board Certified PAs (Sept 2025), https://doi.org/10.64936/MARE1040",
+  "note": "Hand-copied from the PDF; page numbers in the report. Percent change in the report is proportional change since 2020.",
+  "certified_2024": 12400,
+  "respondents": 8601,
+  "salary_median": 115000, "salary_median_2020": 95000,
+  "salary_mean": 114231, "salary_mean_2020": 98412,
+  "share_over_100k": 80.1,
+  "job_status": {"accepted": 57.3, "searching": 37.7, "not_searching": 5.0},
+  "months_to_job_median": 2, "months_to_job_mean": 2.6,
+  "two_plus_offers": 77.7, "two_plus_offers_2020": 62.7,
+  "offered_incentives": 68.1, "offered_incentives_2020": 59.8,
+  "top_incentives": ["Income guarantee", "Paid CME and certification costs", "Flexible hours"],
+  "job_at_rotation_site": 35.2,
+  "chose_area_grew_up": 37.6, "chose_area_of_program": 33.0, "chose_rural": 13.7, "chose_urban_underserved": 9.7,
+  "debt_median": 137500, "debt_mean": 129179, "debt_none": 12.4,
+  "debt_influenced_specialty": 23.4, "debt_influenced_specialty_2020": 13.3,
+  "primary_care_share": 31.3, "specialty_care_share": 60.0,
+  "any_challenge": 27.5, "any_challenge_2020": 40.6
+}
