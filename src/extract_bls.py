@@ -61,11 +61,12 @@ def rpp():
     """BEA Regional Price Parities, all items (line 1): 100 = the US average price level."""
     for name, out in [("SARPP.zip", "rpp_states.csv"), ("MARPP.zip", "rpp_metros.csv")]:
         with zipfile.ZipFile(RAW / name) as z:
-            member = next(m for m in z.namelist()
-                          if m.lower().endswith(".csv") and "definition" not in m.lower() and "footnote" not in m.lower())
+            # The zip also holds other tables (price deflators, real income): take the one it's named for
+            member = next(m for m in z.namelist() if m.startswith(name[:-4] + "_") and m.lower().endswith(".csv"))
             df = pd.read_csv(io.BytesIO(z.read(member)), dtype=str, encoding="latin-1")
         df.columns = [c.strip() for c in df.columns]
         df = df[df["LineCode"].str.strip() == "1"]
+        df["GeoFIPS"] = df["GeoFIPS"].str.strip().str.strip('"')
         years = [c for c in df.columns if c.isdigit()]
         df[["GeoFIPS", "GeoName"] + years].to_csv(OUT / out, index=False)
         print(f"{out}: {len(df)} areas, years {years[0]}-{years[-1]}")
@@ -77,6 +78,7 @@ def gazetteer():
         member = next(m for m in z.namelist() if m.endswith(".txt"))
         df = pd.read_csv(io.BytesIO(z.read(member)), sep="\t", dtype=str)
     df.columns = [c.strip() for c in df.columns]
+    df = df.apply(lambda s: s.str.strip())
     df[["GEOID", "NAME", "INTPTLAT", "INTPTLONG"]].to_csv(OUT / "cbsa_points.csv", index=False)
 
 
