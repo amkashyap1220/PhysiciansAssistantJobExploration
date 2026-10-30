@@ -1,0 +1,35 @@
+sheet,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Table 1.1,"Total, all occupations",00-0000,170280.8,176198.5,5917.6,3.5,50980,,,,,,,,,,
+Table 1.2,"Total, all occupations",00-0000,Summary,170280.8,176198.5,100,100,5917.6,3.5,5.8,17461.8,50980,—,—,—,—,—
+Table 1.2,      Physician assistants,29-1071,Line item,168.9,204.6,0.1,0.1,35.7,21.1,1.4,11.5,135880,Master's degree,,,OOH Content,"<a href=""https://www.bls.gov/ooh/healthcare/physician-assistants.htm"">OOH Content</a>"
+Table 1.2,      Registered nurses,29-1141,Line item,3465.4,3660.1,2,2.1,194.7,5.6,0.5,180.8,97550,Bachelor's degree,,,OOH Content,"<a href=""https://www.bls.gov/ooh/healthcare/registered-nurses.htm"">OOH Content</a>"
+Table 1.2,      Nurse practitioners,29-1171,Line item,336.3,474.1,0.2,0.3,137.8,41,1.6,29.4,132300,Master's degree,,,OOH Content,"<a href=""https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm"">OOH Content</a>"
+Table 1.2,      Physicians,29-1210,Summary,808.8,837.9,0.5,0.5,29.1,3.6,3.5,20.8,271090,—,—,—,—,—
+Table 1.3,"Total, all occupations",00-0000,170280.8,176198.5,5917.6,3.5,50980,,,,,,,,,,
+Table 1.3,  Nurse practitioners,29-1171,336.3,474.1,137.8,41,132300,,,,,,,,,,
+Table 1.3,  Physician assistants,29-1071,168.9,204.6,35.7,21.1,135880,,,,,,,,,,
+Table 1.4,"Total, all occupations",00-0000,170280.8,176198.5,5917.6,3.5,50980,,,,,,,,,,
+Table 1.4,  Registered nurses,29-1141,3465.4,3660.1,194.7,5.6,97550,,,,,,,,,,
+Table 1.4,  Nurse practitioners,29-1171,336.3,474.1,137.8,41,132300,,,,,,,,,,
+Table 1.5,"Total, all occupations",00-0000,170280.8,176198.5,5917.6,3.5,50980,,,,,,,,,,
+Table 1.6,"Total, all occupations",00-0000,170280.8,176198.5,5917.6,3.5,50980,,,,,,,,,,
+Table 1.8,"Total, all occupations",00-0000,Summary,Projections for 00-0000,,,,,,,,,,,,,
+Table 1.8,      Physician assistants,29-1071,Line item,Projections for 29-1071,,,,,,,,,,,,,
+Table 1.8,      Registered nurses,29-1141,Line item,Projections for 29-1141,,,,,,,,,,,,,
+Table 1.8,      Nurse practitioners,29-1171,Line item,Projections for 29-1171,,,,,,,,,,,,,
+Table 1.8,      Physicians,29-1210,Summary,Projections for 29-1210,,,,,,,,,,,,,
+Table 1.10,"Total, all occupations",00-0000,Summary,170280.8,176198.5,5917.6,3.5,4.2,5.5,9.7,7362.4,9507.6,16870,17461.8,,,
+Table 1.10,      Physician assistants,29-1071,Line item,168.9,204.6,35.7,21.1,1.8,2.5,4.3,3.3,4.7,8,11.5,,,
+Table 1.10,      Registered nurses,29-1141,Line item,3465.4,3660.1,194.7,5.6,2.5,2,4.5,88.3,73,161.3,180.8,,,
+Table 1.10,      Nurse practitioners,29-1171,Line item,336.3,474.1,137.8,41,2,1.9,3.8,8.1,7.5,15.6,29.4,,,
+Table 1.10,      Physicians,29-1210,Summary,808.8,837.9,29.1,3.6,1.8,0.4,2.2,14.9,3,17.9,20.8,,,
+Table 1.12,Physician assistants,29-1071,Offices of physicians,621100,"Occupational substitution - share increases as physician assistants are increasingly employed in team-based models of care, taking on tasks previously performed by physicians.",,,,,,,,,,,,
+Table 1.12,Physician assistants,29-1071,General medical and surgical hospitals; private,62210P,"Occupational substitution - share increases as physician assistants are increasingly employed in team-based models of care, taking on tasks previously performed by physicians.",,,,,,,,,,,,
+Table 1.12,Physician assistants,29-1071,General medical and surgical hospitals; state,62210S,"Occupational substitution - share increases as physician assistants are increasingly employed in team-based models of care, taking on tasks previously performed by physicians.",,,,,,,,,,,,
+Table 1.12,Physician assistants,29-1071,General medical and surgical hospitals; local,62210L,"Occupational substitution - share increases as physician assistants are increasingly employed in team-based models of care, taking on tasks previously performed by physicians.",,,,,,,,,,,,
+Table 1.12,Registered nurses,29-1141,Direct health and medical insurance carriers,524114,Demand change - share increases as insurance companies increasingly employ registered nurses to manage complex compensation and medical coverage requests.,,,,,,,,,,,,
+Table 1.12,Registered nurses,29-1141,Other insurance related activities,524290,Demand change - share increases as third party administrator companies increasingly employ registered nurses to manage complex workers compensation and medical benefits for other companies.,,,,,,,,,,,,
+Table 1.12,Registered nurses,29-1141,Temporary help services,561320,Demand change - share increases as hospitals and other healthcare facilities increasingly use temporary help services to staff some of temporary their positions for registered nurses.,,,,,,,,,,,,
+Table 1.12,Registered nurses,29-1141,Continuing care retirement communities and assisted living facilities for the elderly,623300,"Demand change - share decreases as the type of care delivered in these settings translates into a reduced need for registered nurses, relative to other occupations.",,,,,,,,,,,,
+Table 1.12,Registered nurses,29-1141,"Federal government, excluding postal service",999100,Demand change - share increases as growing demand for healthcare services by veterans results in more demand for registered nurses.,,,,,,,,,,,,
+Table 1.12,Nurse practitioners,29-1171,"Total, all industries",TE1000,"Occupational substitution, demand change - share increases as nurse practitioners are increasingly employed in team-based models of care, taking on tasks previously performed by physicians. Expanding practice authority is expected to support employment demand further.",,,,,,,,,,,,

@@ -32,6 +32,9 @@ def oews():
     cols(read("oesm15st.zip")).to_csv(OUT / "oews_states_2015.csv", index=False)
     rows = []
     for y in range(15, YEAR + 1):
+        if not (RAW / f"oesm{y:02d}nat.zip").exists():
+            print(f"oesm{y:02d}nat.zip not downloaded; national history skips {2000 + y}")
+            continue
         df = read(f"oesm{y:02d}nat.zip")
         # National files list the occupation once for all industries (and, in some years, again by ownership)
         if "naics" in df.columns:

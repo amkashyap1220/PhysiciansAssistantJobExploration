@@ -1,0 +1,72 @@
+area,area_title,area_type,prim_state,naics,naics_title,tot_emp,jobs_1000,loc_quotient,a_mean,a_pct10,a_pct25,a_median,a_pct75,a_pct90
+99,U.S.,1,US,524000,Insurance Carriers and Related Activities,50.0,,,142670,124490,128960,138730,151590,168800
+99,U.S.,1,US,541000,"Professional, Scientific, and Technical Services",510.0,,,143130,80870,128730,143220,168820,199770
+99,U.S.,1,US,551000,Management of Companies and Enterprises,350.0,,,136730,93100,123280,137710,159260,181600
+99,U.S.,1,US,561000,Administrative and Support Services,2310.0,,,159650,102130,125540,158550,196470,216120
+99,U.S.,1,US,611000,Educational Services,3670.0,,,137900,95150,116280,134770,163460,177840
+99,U.S.,1,US,621000,Ambulatory Health Care Services,106300.0,,,138680,98740,115790,133620,161080,183400
+99,U.S.,1,US,622000,Hospitals,43260.0,,,145850,103070,129490,141150,168540,196290
+99,U.S.,1,US,623000,Nursing and Residential Care Facilities,410.0,,,127570,43730,83990,135690,170550,194170
+99,U.S.,1,US,624000,Social Assistance,130.0,,,138870,103100,112240,139720,154730,168930
+99,U.S.,1,US,812000,Personal and Laundry Services,280.0,,,120400,84810,107510,110120,144100,168010
+99,U.S.,1,US,999000,"Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation)",4790.0,,,154370,106440,128670,157040,178280,199280
+99,U.S.,1,US,611000,Educational Services,1870.0,,,127930,63700,107120,129410,146580,177240
+99,U.S.,1,US,611000,Educational Services,1790.0,,,148240,109780,132670,141930,164930,193760
+99,U.S.,1,US,622000,Hospitals,2220.0,,,149130,106720,135310,141090,168080,191500
+99,U.S.,1,US,622000,Hospitals,4050.0,,,141640,104600,125460,136030,161390,183400
+99,U.S.,1,US,622000,Hospitals,36980.0,,,146110,102840,129490,141670,169200,199270
+99,U.S.,1,US,524100,Insurance Carriers,30.0,,,142460,124490,130890,143370,151590,159280
+99,U.S.,1,US,541600,"Management, Scientific, and Technical Consulting Services",,,,109530,57890,58300,133200,137790,177120
+99,U.S.,1,US,541700,Scientific Research and Development Services,400.0,,,149660,97350,131910,153530,172090,201680
+99,U.S.,1,US,551100,Management of Companies and Enterprises,350.0,,,136730,93100,123280,137710,159260,181600
+99,U.S.,1,US,561300,Employment Services,2250.0,,,158830,102240,125160,158310,193460,215540
+99,U.S.,1,US,611300,"Colleges, Universities, and Professional Schools",3660.0,,,137920,95150,116280,134770,163950,177890
+99,U.S.,1,US,621100,Offices of Physicians,86830.0,,,136130,98140,113210,132000,158240,178200
+99,U.S.,1,US,621200,Offices of Dentists,,,,128350,99370,126090,129460,150000,154280
+99,U.S.,1,US,621300,Offices of Other Health Practitioners,2870.0,,,130610,68300,108210,132140,151860,178130
+99,U.S.,1,US,621400,Outpatient Care Centers,14980.0,,,154390,106460,127980,153500,173400,215030
+99,U.S.,1,US,621500,Medical and Diagnostic Laboratories,450.0,,,129560,94690,110720,131750,146470,167120
+99,U.S.,1,US,621600,Home Health Care Services,170.0,,,151070,106960,123220,147870,168900,195670
+99,U.S.,1,US,621900,Other Ambulatory Health Care Services,920.0,,,152170,117860,127130,135730,172610,206580
+99,U.S.,1,US,622100,General Medical and Surgical Hospitals,40850.0,,,145880,102890,129450,141090,168860,199270
+99,U.S.,1,US,622200,Psychiatric and Substance Abuse Hospitals,290.0,,,145380,110180,127650,140570,160020,191150
+99,U.S.,1,US,622300,Specialty (except Psychiatric and Substance Abuse) Hospitals,2120.0,,,145240,108190,135490,144610,168080,178710
+99,U.S.,1,US,623200,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",340.0,,,128260,43730,77930,135880,170690,196460
+99,U.S.,1,US,624100,Individual and Family Services,120.0,,,140300,105390,113100,141710,158290,168870
+99,U.S.,1,US,812100,Personal Care Services,270.0,,,119800,84810,107490,110120,143150,168010
+99,U.S.,1,US,999100,Federal Executive Branch (OEWS Designation),3560.0,,,163530,122450,144230,164760,184250,202610
+99,U.S.,1,US,999200,"State Government, excluding Schools and Hospitals (OEWS Designation)",440.0,,,133670,103370,111070,124940,144640,205610
+99,U.S.,1,US,999300,"Local Government, excluding Schools and Hospitals (OEWS Designation)",780.0,,,124280,79990,103610,121370,136980,167270
+99,U.S.,1,US,611300,"Colleges, Universities, and Professional Schools",1870.0,,,127940,63700,107120,129980,146580,177240
+99,U.S.,1,US,611300,"Colleges, Universities, and Professional Schools",1780.0,,,148330,109780,132670,141930,164930,202140
+99,U.S.,1,US,622100,General Medical and Surgical Hospitals,1620.0,,,150180,95540,132760,146050,168860,209280
+99,U.S.,1,US,622100,General Medical and Surgical Hospitals,4020.0,,,141530,104570,125410,136030,161370,185230
+99,U.S.,1,US,622100,General Medical and Surgical Hospitals,35210.0,,,146180,102890,129490,141600,169240,200890
+99,U.S.,1,US,622200,Psychiatric and Substance Abuse Hospitals,80.0,,,136330,111990,121880,129840,147360,171180
+99,U.S.,1,US,622200,Psychiatric and Substance Abuse Hospitals,180.0,,,147370,107650,127650,142730,161560,200690
+99,U.S.,1,US,622300,Specialty (except Psychiatric and Substance Abuse) Hospitals,520.0,,,147870,137240,137240,137240,168080,168080
+99,U.S.,1,US,622300,Specialty (except Psychiatric and Substance Abuse) Hospitals,1600.0,,,144410,100420,132680,148170,167120,180520
+99,U.S.,1,US,541710,"Research and Development in the Physical, Engineering, and Life Sciences",400.0,,,149660,97350,131910,153530,172090,201680
+99,U.S.,1,US,561320,Temporary Help Services,1760.0,,,161810,102130,126110,166290,200010,216120
+99,U.S.,1,US,621310,Offices of Chiropractors,,,,127610,48710,107650,140030,140030,188380
+99,U.S.,1,US,621330,Offices of Mental Health Practitioners (except Physicians),340.0,,,134630,101410,113380,130170,152390,173860
+99,U.S.,1,US,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",840.0,,,148080,118980,131650,147720,164300,188420
+99,U.S.,1,US,621390,Offices of All Other Health Practitioners,,,,120790,68300,99360,122490,145210,171950
+99,U.S.,1,US,621420,Outpatient Mental Health and Substance Abuse Centers,750.0,,,154160,114990,124800,144830,174490,204580
+99,U.S.,1,US,621990,All Other Ambulatory Health Care Services,910.0,,,153080,117860,128280,135740,173210,206620
+99,U.S.,1,US,623220,Residential Mental Health and Substance Abuse Facilities,330.0,,,126860,43730,60150,135880,170690,194220
+99,U.S.,1,US,624120,Services for the Elderly and Persons with Disabilities,,,,142530,103090,135130,143920,150700,161200
+99,U.S.,1,US,000001,"Cross-industry, Private Ownership only",149210.0,,,140900,99110,120420,135600,163350,189860
+99,U.S.,1,US,999001,"Federal, State, and Local Government, including State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation)",12940.0,,,145660,103310,126040,139830,168860,192820
+99,U.S.,1,US,999101,"Federal Government, including the U.S. Postal Service (OEWS Designation)",3560.0,,,163530,122450,144230,164760,184250,202610
+99,U.S.,1,US,999201,"State Government, including Schools and Hospitals (OEWS Designation)",4540.0,,,138880,92100,114490,135310,164830,183730
+99,U.S.,1,US,999301,"Local Government, including Schools and Hospitals (OEWS Designation)",4840.0,,,138870,99700,121360,134990,160280,179030
+99,U.S.,1,US,21,"Mining, Quarrying, and Oil and Gas Extraction",,,,138540,115760,117500,126830,163320,165740
+99,U.S.,1,US,52,Finance and Insurance,50.0,,,142150,124490,128960,138040,151590,168800
+99,U.S.,1,US,54,"Professional, Scientific, and Technical Services",510.0,,,143130,80870,128730,143220,168820,199770
+99,U.S.,1,US,55,Management of Companies and Enterprises,350.0,,,136730,93100,123280,137710,159260,181600
+99,U.S.,1,US,56,Administrative and Support and Waste Management and Remediation Services,2310.0,,,159640,102130,125540,158550,196470,216120
+99,U.S.,1,US,61,Educational Services,3670.0,,,137900,95150,116280,134770,163460,177840
+99,U.S.,1,US,62,Health Care and Social Assistance,150100.0,,,140720,99160,120450,135550,163040,187160
+99,U.S.,1,US,81,Other Services (except Public Administration),290.0,,,120010,84810,107490,110120,144090,168000
+99,U.S.,1,US,99,"Federal, State, and Local Government, excluding State and Local Government Schools and Hospitals and the U.S. Postal Service (OEWS Designation)",4790.0,,,154370,106440,128670,157040,178280,199280
