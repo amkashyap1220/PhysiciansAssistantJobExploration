@@ -1,7 +1,7 @@
 """Every public file the analysis reads, with where it comes from.
 
 `python src/download.py` fetches them into data/raw/. Nothing in data/raw/ is
-committed; the tables built from it are, in data/processed/.
+committed; the small tables src/extract_bls.py cuts from it are, in data/bls/.
 """
 
 OEWS = "https://www.bls.gov/oes/special-requests"
@@ -17,7 +17,7 @@ FILES = {
     f"oesm{YEAR}in4.zip": f"{OEWS}/oesm{YEAR}in4.zip",
     # Ten years back, for growth by state
     "oesm15st.zip": f"{OEWS}/oesm15st.zip",
-    # BLS Employment Projections, 2024 to 2034, every occupation
+    # BLS Employment Projections, 2025 to 2035, every occupation
     "ep-occupation.xlsx": "https://www.bls.gov/emp/ind-occ-matrix/occupation.xlsx",
     # BEA Regional Price Parities: how far a dollar goes in each state and metro
     "SARPP.zip": "https://apps.bea.gov/regional/zip/SARPP.zip",
